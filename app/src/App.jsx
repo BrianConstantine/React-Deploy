@@ -22,7 +22,7 @@ function App() {
     <>
       <div className='container'>
       
-      <h1>AWS HANDS ON PROJECT ON CICD PIPELINE</h1>
+      <h1>AWS HANDS ON PROJECT ON CICD PIPELINE WITH AI</h1>
 
       <div className="card">
       <div>
